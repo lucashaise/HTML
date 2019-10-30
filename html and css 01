@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<title>css</title>	
+	<!--<title title='crack'> css</title> nao é possivel--> 	
+
+
+<!-- css, linked to another file "href='html and css 01.1.css" (meuestilo.css) -->
+
+	<link rel='stylesheet' type='text/css' href='meuestilo.css'>
+
+</head>
+
+<body>
+
+<!-- title= pode ser usado para quase qualquer elemento -->
+	<h1 title='titulo'>isso é um titulo </h1>
+		
+		<p title='paragrafo'>isso é um paragrafo</p>
+		
+		<a href='https://www.google.com/search?q=idk&rlz=1C1GCEA_enBR871&oq=idk&aqs=chrome..69i57j0l7.1494j0j7&sourceid=chrome&ie=UTF-8' title= 'pudim'> site </a>
+	
+	<!-- estilo "in line" sobrepoem o do css, como o abaixo 
+	style implica que a parte marcada é css, tudo dentro do style deve estar entre aspas-->
+	<h1 style='color:#BA77F0; text-align:left; background-color:#F2D4F4; letter-spacing: 86px;'> isso é outro titulo </h1>
+	
+	
+	
+		<p class='linhaEsquerda'> isso é um outro paragrafo</p>
+		<p class='linhaDireita'> isso é um outro paragrafo</p>
+		<p class='linhaEsquerda'> isso é um outro paragrafo</p>
+		<p class='linhaDireita' class='linhaDireita2'> isso é um outro paragrafo</p>
+		<p id='corvermelha' title='id'> isso é um outro paragrafo</p>
+	 
+	 <!-- da pra usar mais de um class por item ou um class e um id ou o que quiser, mas se tiver elementos que entram em conflito
+	 um deles ira sobrepor o outro -->
+	
+	
+	<br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>	
+	
+	
+	
+</body>
+
+</html>
