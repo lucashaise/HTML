@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>	
+	<title>mother l&oacuteg </title>
+</head>
+
+<body>
+
+	<h1> hyperlink</h1>
+	<a href="https://www.youtube.com/watch?v=U9t-slLl30E"> Isso é um link </a>
+	<br><br>
+	<a href="exercicio01.html"> titulo e paragrafo </a><br>
+	<a href="exercicio02.html"> espaços e poemas </a><br>
+	<a href="exercicio03.html"> imagens e textos </a><br>
+	<a href="exercicio04.html"> hyperlinks </a><br>
+	<br><br>
+	<p>olha essa <a href="potato.jpg">batata</a></p>
+	<br><br>
+	<p>toque no sapo abaixo</p>
+	<a href="https://www.youtube.com/watch?v=U9t-slLl30E"><img src= 'download.jpg'>
+	
+	<!--
+	<a href= gera hyperlink >  </a>
+	obs. acento no heads é um encosto, se for usar procure como, envolve umas palavras (maluca)
+	-->
+
+</body>
+</html>
