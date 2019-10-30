@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+	<title>TABELA CSS</title>	
+	
+	<link href="https://fonts.googleapis.com/css?family=Ubuntu&display=swap" rel="stylesheet"> 
+	<!-- google fonts gave me the link above, just choose a font and select in in the upper right of the page, afterwards just copy the code and paste as is --> 
+	
+	<link rel='stylesheet' type='text/css' href='minhatabela.css'>
+
+</head>
+
+<body>
+
+	<table border=2px>
+		<tr>
+			<th>aluno</th>
+			<th>nota1</th>
+			<th>nota2</th>
+			<th>media</th>
+			<th>aprovado</th>
+		</tr>
+		<tr>
+			<td class=orange> zé </td>
+			<td class=tomato>10</td>
+			<td class=yellow>9</td>
+			<td class=green>9,5</td>
+			<td class=orange>sim</td>
+		</tr>
+		<tr>
+			<td class=green>jao</td>
+			<td class=orange>5</td>
+			<td class=tomato>6</td>
+			<td class=yellow>5,5</td>
+			<td class=green>sim</td>
+		</tr>
+		<tr>
+			<td class=yellow>fulano</td>
+			<td class=green>4</td>
+			<td class=orange>6</td>
+			<td class=tomato>5</td>
+			<td class=yellow>sim</td>
+		</tr>
+		<tr>
+			<td class=tomato>sheila</td>
+			<td class=yellow>10</td>
+			<td class=green>10</td>
+			<td class=orange>10</td>
+			<td class=tomato>sim</td>
+		</tr>
+	</table>
+	
+		
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	
+	
+</body>
+</html>
