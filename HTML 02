@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>	
+	<title>mother log</title>
+</head>
+
+<body>
+
+<h1>imageeeem(s)</h1>
+
+<img src = "download.jpg" alt="yoda lindo">
+	<br>
+
+<h1>mother log</h1>
+
+	<p>one day i was walking<br>
+	and i found this big log<br>
+	so i rolled the log over<br>
+	and underneath<br>
+	was a tiny, little stick<br>
+	and i was like<br>
+	that log had a child</p>
+	<br>
+	
+<img src = "https://i.imgur.com/W2xPFuW.jpg" width="200px" alt="Mother log">
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+<p>and this is a <span style = "color:green;">potato</span></p>
+<br>
+
+<img src = "potato.jpg" width="100px" ALT="batata" style="float:left;">
+<p style = "color:blue;"> potatopotatopotataopotatopotato
+potataopotatopotatopotataopotatopo
+tatopotataopotatopotatopotataopota
+topotatopotataopotatopotatopotatao
+potatopotatopotataopotatopotatopot
+ataopotatopotatopotatao</p>
+
+<!--alt-acessibilidade.
+src source, atributo.
+<img nao precisa fecha.
+width tamanho.
+SPAN STYLE. uma parte
+style estito
+float joga de um lado pro outro
+-->
+
+</body>
+</html>
