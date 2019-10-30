@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>	
+	<title>mother l&oacuteg </title>
+</head>
+
+<body>
+
+	<h1>HTML FORMS</h1>
+	<form action="https://www.w3schools.com/action_page.php">
+		nome:<br>
+		<input type="text" name="name" value ="fulano"><br>
+		sobrenome:<br>
+		<input type="text" name="sobrenome" value ="laringe"><br><br>
+		<select name="cars">
+  <option value="volvo">Volvo</option>
+  <option value="saab">Saab</option>
+  <option value="fiat">Fiat</option>
+  <option value="audi">Audi</option>
+</select>
+<br><br>
+Select your favorite color:
+  <input type="color" name="favcolor">
+  <br><br>
+   <input type="date" name="bday">
+  <input type="submit" value="enviar">
+ 
+		
+		
+		
+	</form>
+	
+	<!-- 
+	cria formularios
+	<form ACtion=      >
+	</form>
+	
+	input permite escrever OU ADD coisas na pagina (tipo phyton)
+	-->
+	
+</body>
+</html>
