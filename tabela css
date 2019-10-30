@@ -1,0 +1,56 @@
+*
+{
+	font-family: ubuntu, sans-serif; /*quando nao tem a fonte salva da pra pega do goole fonts */
+}
+
+table
+{
+	width:100%;
+	/* column-width: 50px; */
+}
+
+td
+{
+	padding: 5px;
+	width: 20%; /*TAMANO uniforme para as celular*/
+}
+
+th
+{
+	text-align: left;
+	padding: 5px;
+	color:white;
+	background-color:blue;
+	/* border-bottom: 10px; */
+}
+
+.orange
+{
+	color:black;
+	background-color:lightsalmon;
+}
+
+.tomato
+{
+	background-color:lightcoral;
+}
+
+.yellow
+{
+	background-color:khaki;
+}
+
+.green
+{
+	background-color:lightgreen;
+}
+
+body
+{
+	background-image: linear-gradient(to bottom right, LightBlue, DarkTurquoise);
+	/*background-image: linear-gradient(to bottom right, red, yellow);*/
+	background-repeat: no-repeat;
+}
+
+
+/* usar o simbulo "*" (asterisco - onde da a fonte) aplica a todos */
